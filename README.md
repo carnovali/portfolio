@@ -1,4 +1,4 @@
-Portfolio Lucas Carnovali
+Portfolio Lucas Carnovali (OUTDATED)
 
 *Falta nav bar, tanto para mobile como para desktop.
 
